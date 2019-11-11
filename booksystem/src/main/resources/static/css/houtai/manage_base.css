@@ -1,0 +1,28 @@
+body{
+	padding-top: 3px;
+}
+
+er {font-style: normal;color: #c00;}
+ber{font-style: normal;color: #c00;font-weight: bold;}
+
+eg {font-style: normal;color: #009688;}
+beg {font-style: normal;font-weight: bold;color: #009688;}
+
+eb {font-style: normal;color: #1E9FFF;}
+beb {font-style: normal;font-weight: bold;color: #1E9FFF;}
+
+
+/*修改table表格  左右内边框 为0*/
+.layui-table-cell {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+/*修改table表格 左右内边框 为0*/
+
+
+/* 修复table上面10px改成0px */
+.layui-table-view {
+	margin: 0px 0 !important;	    
+}
+/* 修复table上面10px改成0px */
